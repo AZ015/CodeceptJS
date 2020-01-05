@@ -1,0 +1,5 @@
+/*
+contains all the models which can be used in API as a
+request model or in web automation to store
+dynamic data if needed.
+*/
